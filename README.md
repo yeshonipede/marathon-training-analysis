@@ -4,7 +4,7 @@ An applied analysis of wearable physiology and running data collected across a 1
 
 This repository is intended as analysis documentation and interpretation, not a fully executable pipeline. Raw wearable and activity data are private and not included.
 
-### A summary write-up of this project is located in /write-up . Check it out!
+### A summary write-up of this project is located here 📄 [Full Visual Write-Up (PDF)](write-up/Marathon_WriteUp.pdf) Check it out!
 
 ## Key Questions
 - How did physiological recovery metrics change during marathon training compared to non-training periods?
